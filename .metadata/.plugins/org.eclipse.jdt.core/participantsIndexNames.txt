@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-/home/hemanth/training/ProgressiveAssignment/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1182964930.index
-/servlet-works/src/main/java

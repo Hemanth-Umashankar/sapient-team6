@@ -1,3 +1,0 @@
-INDEX VERSION 1.4+/home/hemanth/training/ProgressiveAssignment/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-4155219971.index
-286485431.index
